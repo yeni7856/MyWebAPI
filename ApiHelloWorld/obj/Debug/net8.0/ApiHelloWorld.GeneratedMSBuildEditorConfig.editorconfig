@@ -1,67 +1,71 @@
 is_global = true
 build_property.TargetFramework = net8.0
-build_property.TargetFramework = net8.0
-build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
-build_property.UsingMicrosoftNETSdkWeb = true
-build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
-build_property.InvariantGlobalization = 
-build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
-build_property.EnforceExtendedAnalyzerRules = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiHelloWorld
 build_property.RootNamespace = ApiHelloWorld
-build_property.ProjectDir = D:\Project\MyWebAPI\ApiHelloWorld\
+build_property.ProjectDir = D:\Project\MyWebApi\ApiHelloWorld\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Project\MyWebAPI\ApiHelloWorld
+build_property.MSBuildProjectDirectory = D:\Project\MyWebApi\ApiHelloWorld
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/Home/Index.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/Home/Privacy.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/MyRankingServicsTest/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlSYW5raW5nU2Vydmljc1Rlc3RcSW5kZXguY3NodG1s
+[D:/Project/MyWebApi/ApiHelloWorld/Views/MyRankingServiecsTest/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlSYW5raW5nU2VydmllY3NUZXN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/Shared/Error.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Views/PointLog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9pbnRMb2dcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/MyWebApi/ApiHelloWorld/Views/PointStatus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9pbnRTdGF0dXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/MyWebApi/ApiHelloWorld/Views/Point/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9pbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/MyWebApi/ApiHelloWorld/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/Shared/_LoginPartial.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/_ViewImports.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/_ViewStart.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project/MyWebAPI/ApiHelloWorld/Views/Shared/_Layout.cshtml]
+[D:/Project/MyWebApi/ApiHelloWorld/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gqeel1kz3g

@@ -1,0 +1,10 @@
+D:\Project\MyWebApi\MyPoint\bin\Debug\MyPoint.dacpac
+D:\Project\MyWebApi\MyPoint\bin\Debug\MyPoint.dll
+D:\Project\MyWebApi\MyPoint\bin\Debug\MyPoint.pdb
+D:\Project\MyWebApi\MyPoint\obj\Debug\MyPoint.sqlproj.AssemblyReference.cache
+D:\Project\MyWebApi\MyPoint\obj\Debug\Model.xml
+D:\Project\MyWebApi\MyPoint\obj\Debug\refactor.xml
+D:\Project\MyWebApi\MyPoint\obj\Debug\postdeploy.sql
+D:\Project\MyWebApi\MyPoint\obj\Debug\predeploy.sql
+D:\Project\MyWebApi\MyPoint\obj\Debug\MyPoint.dll
+D:\Project\MyWebApi\MyPoint\obj\Debug\MyPoint.pdb

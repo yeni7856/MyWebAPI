@@ -1,3 +1,4 @@
+using ApiHelloWorld.Components;
 using ApiHelloWorld.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,11 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+//포인트 관리
+//builder.Services.AddTransient<IPointRepository, PointRepository>();       //DB
+builder.Services.AddTransient<IPointRepository, PointRepositoryInMemory>(); //InMemory
+builder.Services.AddTransient<IPointLogRepository, PointLogRepository>();
 
 var app = builder.Build();
 
