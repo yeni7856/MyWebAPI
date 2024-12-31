@@ -15,10 +15,13 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
-//Æ÷ÀÎÆ® °ü¸®
+//í¬ì¸íŠ¸ ê´€ë¦¬
 //builder.Services.AddTransient<IPointRepository, PointRepository>();       //DB
 builder.Services.AddTransient<IPointRepository, PointRepositoryInMemory>(); //InMemory
 builder.Services.AddTransient<IPointLogRepository, PointLogRepository>();
+
+//Five ê´€ë¦¬
+builder.Services.AddTransient<IFiveRepository, FiveRepository>();
 
 var app = builder.Build();
 

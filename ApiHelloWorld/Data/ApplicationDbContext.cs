@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using ApiHelloWorld.Components;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiHelloWorld.Data
@@ -9,5 +10,7 @@ namespace ApiHelloWorld.Data
             : base(options)
         {
         }
+
+        public DbSet<Five> Five { get; set; }
     }
 }

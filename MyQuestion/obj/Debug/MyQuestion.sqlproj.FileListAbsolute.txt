@@ -1,0 +1,10 @@
+D:\Project\MyWebAPI\MyQuestion\bin\Debug\MyQuestion.dacpac
+D:\Project\MyWebAPI\MyQuestion\bin\Debug\MyQuestion.dll
+D:\Project\MyWebAPI\MyQuestion\bin\Debug\MyQuestion.pdb
+D:\Project\MyWebAPI\MyQuestion\obj\Debug\MyQuestion.sqlproj.AssemblyReference.cache
+D:\Project\MyWebAPI\MyQuestion\obj\Debug\Model.xml
+D:\Project\MyWebAPI\MyQuestion\obj\Debug\refactor.xml
+D:\Project\MyWebAPI\MyQuestion\obj\Debug\postdeploy.sql
+D:\Project\MyWebAPI\MyQuestion\obj\Debug\predeploy.sql
+D:\Project\MyWebAPI\MyQuestion\obj\Debug\MyQuestion.dll
+D:\Project\MyWebAPI\MyQuestion\obj\Debug\MyQuestion.pdb

@@ -1,0 +1,6 @@
+D:\Project\MyWebApi\MyFive\bin\Debug\MyFive.dacpac
+D:\Project\MyWebApi\MyFive\bin\Debug\MyFive.dll
+D:\Project\MyWebApi\MyFive\bin\Debug\MyFive.pdb
+D:\Project\MyWebApi\MyFive\obj\Debug\MyFive.sqlproj.AssemblyReference.cache
+D:\Project\MyWebApi\MyFive\obj\Debug\MyFive.dll
+D:\Project\MyWebApi\MyFive\obj\Debug\MyFive.pdb

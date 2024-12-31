@@ -40,7 +40,11 @@ namespace ApiHelloWorld.Controllers
             {
                 new Student{Id = 1, Name = "홍길동", Score = 3}
             };
-            return new MyRankingDto { };
+            return new MyRankingDto
+            {
+                Subject = subject,
+                Students = students
+            };
         }
 
     }
